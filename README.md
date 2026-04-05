@@ -6,7 +6,7 @@ Análisis exploratorio del dataset de juegos de mesa de BoardGameGeek (BGG) util
 ## 📁 Estructura del proyecto
 ```
 ├── data/
-│   └── bgg_dataset.csv
+│   └── bgg_dataset.json
 ├── notebook/
 │   └── analisis_juegos_mesa.ipynb
 └── README.md
